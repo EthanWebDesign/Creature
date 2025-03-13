@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<header><h3>The Abyss Creature</h3></header>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
+</html>
+
+<body><h4>The Abyss is a place where the creature lies lurking in the dark. It waits for unsuspecting victims to unknowingly walk into it's trap. It feeds on anything it can get its hands on and will kill anything in its path. The one person to survive an attack barely escaped but lost an arm and left with the memory of a semi truck sized monster.</h4></body>
